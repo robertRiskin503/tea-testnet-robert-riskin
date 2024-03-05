@@ -1,0 +1,22 @@
+{
+    "name": "tea-testnet-robert-riskin",
+    "version": "1.0.0",
+    "description": "A simple project interacting with Ethereum blockchain",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "web3",
+        "ethereum"
+    ],
+    "author": "robert-riskin",
+    "license": "MIT",
+    "dependencies": {
+        "web3": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https:////github.com/robertRiskin503/tea-testnet-robert-riskin.git"
+      }
+}
